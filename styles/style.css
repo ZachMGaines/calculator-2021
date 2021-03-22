@@ -55,6 +55,10 @@ section {
     margin-top: var(--gutter);
     margin-bottom: var(--gutter);
     border: solid 2px var(--color1);
+    color: saddlebrown;
+    font-size: 25px;
+    font-weight: bold;
+    
 }
 
 header {
@@ -128,4 +132,14 @@ footer {
         transform: rotate3d(10, 10, 10, 50deg) scale(1);
     }
 
+  }
+  
+  .symbol {
+      color: black;
+      opacity: 60%;
+      
+  }
+
+  .title {
+      
   }
